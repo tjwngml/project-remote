@@ -1,4 +1,9 @@
 * { box-sizing: border-box }
 body { color: #121212; }
+<<<<<<< HEAD
 p { margin: 0; }
+p { margin: 0; }
+=======
+h1 { font-weight: 400; }
+>>>>>>> 60e580bfd2b11af6efbb6c86bd88f6fef2e5b6b1
 p { margin: 0; }
